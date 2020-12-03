@@ -1,2 +1,2 @@
-# c-27-project
-move the mouse
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
